@@ -1,0 +1,34 @@
+#letter {
+  display: none;
+}
+
+.letter-text {
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 10%;
+  padding-top: 3%;
+
+}
+
+#letter {
+  margin-top: 20px;
+  background-image: url(../img/paper.png);
+  font-size: 18pt;
+  font-style: italic;
+  font-family: Courier;
+
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: black;
+  color: deepskyblue;
+}
+
+.container {
+  max-width: 800px;
+}
+
+.l-content {
+  text-align: center;
+}
